@@ -56,7 +56,7 @@
 ## 動作環境
 
 * **対応 OS**: Windows 10 / Windows 11（x64）
-* **必須ランタイム**: [.NET 10 Desktop Runtime（x64）](https://dotnet.microsoft.com/download/dotnet/10.0)（Windows デスクトップ ランタイム 10.0）
+* **必須ランタイム**: [.NET 10 Desktop Runtime（x64）]([https://dotnet.microsoft.com/download/dotnet/10.0](https://dotnet.microsoft.com/ja-jp/download/dotnet/10.0#:~:text=.NET%20Desktop%20%E3%83%A9%E3%83%B3%E3%82%BF%E3%82%A4%E3%83%A0))（Windows デスクトップ ランタイム 10.0）
 
 ---
 
