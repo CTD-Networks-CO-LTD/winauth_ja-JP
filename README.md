@@ -71,7 +71,7 @@
 ※バイナリの整合性検証が必要な場合は、GitHub Releases ページに表示される SHA-256 ダイジェストをご確認ください。
 
 ### 基本的な使い方
-1. 事前に [.NET 10 Desktop Runtime（x64）]([https://dotnet.microsoft.com/download/dotnet/10.0](https://dotnet.microsoft.com/ja-jp/download/dotnet/10.0#:~:text=.NET%20Desktop%20%E3%83%A9%E3%83%B3%E3%82%BF%E3%82%A4%E3%83%A0)) がインストールされていることを確認します。
+1. 事前に [.NET 10 Desktop Runtime（x64）](https://dotnet.microsoft.com/ja-jp/download/dotnet/10.0#:~:text=.NET%20Desktop%20%E3%83%A9%E3%83%B3%E3%82%BF%E3%82%A4%E3%83%A0) がインストールされていることを確認します。
 2. ダウンロードした ZIP ファイルを展開し、`WinAuth.exe` を任意のフォルダに配置して起動します。
    - インストール作業は不要です。
    - `.NET 10 Desktop Runtime` 未導入の状態で起動した場合は表示される案内に従って公式インストーラーを導入してください。
